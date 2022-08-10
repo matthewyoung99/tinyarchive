@@ -1,3 +1,11 @@
-h1{
-    color:blueviolet;
+h1   {
+    color:cream;
+    background-color: #fffcc9;
+    text-align: center;
 }
+body {
+    background-color: #fefbea;
+  }
+  body,h1 {font-family: "Noto Sans", sans-serif}
+h1 {letter-spacing: 6px}
+.w3-row-padding img {margin-bottom: 12px}
